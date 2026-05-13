@@ -1,10 +1,11 @@
-# DocIntel-AI
-Document Intelligence web application built with Flask and Azure AI for document text extraction and analysis.
 # 👤 DocIntel-AI – Azure Document Intelligence Web App
 
 A modern and interactive **Document Intelligence Web Application** built using **Microsoft Azure AI Document Intelligence**.
 Users can upload documents and extract text using Azure AI services.
 
+---
+🚀 Live Demo
+🔗 https://doc-intel.netlify.app/
 ---
 
 # 🚀 Features
